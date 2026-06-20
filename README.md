@@ -190,3 +190,5 @@ adb shell cmd package install-existing <package.name>
 ## Disclaimer
 
 This tool modifies user-level application availability using ADB commands. It does not modify system partitions or require root access. The author is not responsible for any unintended behavior, data loss, or system issues caused by usage.
+
+Credits to Magnetron.
