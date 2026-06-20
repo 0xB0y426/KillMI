@@ -1,5 +1,7 @@
 # KillMI
 
+![killmi](killmi_img.jpg)
+
 KillMI is a lightweight Xiaomi/MIUI debloating tool that uses Android Debug Bridge (ADB) to remove or disable system applications related to telemetry, advertising, analytics, and background services.
 
 It is designed to improve privacy, reduce background activity, and free system resources without requiring root access.
